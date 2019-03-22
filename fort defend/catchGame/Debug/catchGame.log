@@ -1,0 +1,17 @@
+﻿  simplePlatformStarter.cpp
+c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(45): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(114): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(154): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(200): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(238): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(293): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(298): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(343): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(348): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(414): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(415): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(427): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(428): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(463): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  catchGame.vcxproj -> C:\Users\c00240102\Desktop\shitty cars\Debug\catchGame.exe
