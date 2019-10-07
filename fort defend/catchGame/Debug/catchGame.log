@@ -1,17 +1,37 @@
 ﻿  simplePlatformStarter.cpp
-c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(45): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(114): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(154): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
-c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(200): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(238): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(293): warning C4305: '-=': truncation from 'double' to 'float'
-c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(298): warning C4305: '+=': truncation from 'double' to 'float'
-c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(343): warning C4305: '-=': truncation from 'double' to 'float'
-c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(348): warning C4305: '+=': truncation from 'double' to 'float'
-c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(414): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(415): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(427): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(428): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\c00240102\desktop\shitty cars\catchgame\simpleplatformstarter.cpp(463): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  catchGame.vcxproj -> C:\Users\c00240102\Desktop\shitty cars\Debug\catchGame.exe
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(45,51): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(56,41): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(56,27): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(114,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(154,72): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(154,72): warning C4244:         with
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(154,72): warning C4244:         [
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(154,72): warning C4244:             T=unsigned int
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(154,72): warning C4244:         ]
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(154,72): warning C4244:         and
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(154,72): warning C4244:         [
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(154,72): warning C4244:             T=float
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(154,72): warning C4244:         ]
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(154,52): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(154,52): warning C4244:         with
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(154,52): warning C4244:         [
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(154,52): warning C4244:             T=unsigned int
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(154,52): warning C4244:         ]
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(154,52): warning C4244:         and
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(154,52): warning C4244:         [
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(154,52): warning C4244:             T=float
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(154,52): warning C4244:         ]
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(211,27): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(249,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(249,36): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(304,25): warning C4305:  '-=': truncation from 'double' to 'float'
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(309,25): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(353,28): warning C4305:  '-=': truncation from 'double' to 'float'
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(357,28): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(421,43): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(422,44): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(434,49): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(435,50): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(486,54): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\catchGame\simplePlatformStarter.cpp(486,38): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  catchGame.vcxproj -> C:\Users\C00240102\Desktop\Protect-the-house-from-the-apples\fort defend\Debug\catchGame.exe
